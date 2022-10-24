@@ -16,7 +16,7 @@ MolGX runs with the following versions of Python and pip:
 2. pip>=19.1, <20.3
 
 
-This restriction intends to be consistent with [gt4sd](https://github.com/GT4SD/gt4sd-core). 
+This restriction intends to be consistent with [GT4SD](https://github.com/GT4SD/gt4sd-core). 
 
 ## Installation
 
