@@ -49,8 +49,8 @@ pip install molgx
 Type the following commands if you want to clone the source code to install it: 
 
 ```CommandLine
-git clone https://github.com/GT4SD/gt4sd-core.git
-cd ./src/gt4sd/frameworks/molgx
+git clone git@github.com:GT4SD/molgx-core.git
+cd ./molgx-core
 pip install .
 ```
 
