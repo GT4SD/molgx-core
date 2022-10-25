@@ -61,7 +61,7 @@ The other is to use a pretrained model under GT4SD, which plans to be extended t
 
 ##  Running an example on jupyter notebook as a standalone application
 
-[Here](/example/jupyter_notebook/MolGX_tutorial.ipynb) is an example on giving an overview of the usage of MolGX. 
+[Here](https://github.com/GT4SD/molgx-core/blob/main/example/jupyter_notebook/MolGX_tutorial.ipynb) is an example on giving an overview of the usage of MolGX. 
 You will need to install the Jupyter Notebook to run the example.
 One way is to install the Jupyter Notebook is: 
 
