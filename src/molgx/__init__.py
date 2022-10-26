@@ -27,7 +27,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 """
 
-__version__ = '0.22.0a0'
+__version__ = '0.22.0a1'
 
 from .Molecule import *
 from .DataBox import *
