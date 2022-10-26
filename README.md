@@ -11,7 +11,7 @@ as well as to further improve these technologies through a collaborative, open d
 
 MolGX runs with the following versions of Python and pip:
 
-1. Python >=3.7, <3.8
+1. Python >=3.7, <3.9
 
 2. pip>=19.1, <20.3
 
